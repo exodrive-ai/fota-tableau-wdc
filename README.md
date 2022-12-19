@@ -1,6 +1,3 @@
-# fota-tableau-wdc
-Tableau web data connector for FOTA Web
-
 <div align="center">
 
 <h1>FOTA Tableau connector</h1>
